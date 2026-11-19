@@ -1,0 +1,13 @@
+{
+  "plex_url": "http://192.168.x.x:32400",
+  "plex_token": "yourplextoken",
+  "player_name": "plexplayername",
+  "player_machine_id": "",
+  "libraries": ["Movies"],
+  "rotate_seconds": 30,
+  "poll_seconds": 2,
+  "show_when_paused": true,
+  "poster_width": 720,
+  "poster_height": 1080,
+  "port": 8080
+}
